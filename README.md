@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Bansal</h1>
 <h3 align="center">Programmer | Developer | Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-09&label=Profile%20views&color=0e75b6&style=flat" alt="aman-09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman-09" alt="aman-09" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Stock Price Prediction using ML**
 
